@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=Ramabhadra&display=swap");
+
+.iplheading {
+  font-size: 4rem;
+  font-weight: 200;
+  background-color: darkblue;
+  color: white;
+  text-align: center;
+  text-shadow: 5px 5px 5px grey;
+  box-shadow: 2px 5px 2px gray;
+  border-radius: 20px;
+}
+.homeimagetext {
+  display: inline-block;
+  font-size: 10px;
+  text-align: center;
+  border: solid 5px gray;
+  padding: 10px;
+  border-radius: 10px;
+  filter: drop-shadow();
+  text-shadow: 5px 5px 5px gray;
+}
+#homepara {
+  background-color: aqua;
+}
+.homepage {
+  text-align: center;
+}
+.srhcontnr {
+  display: inline-block;
+}
+
+.paranormal {
+  display: inline-block;
+  width: 600px;
+  font-size: 20px;
+  margin-left: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.paragooglefont {
+  display: inline-block;
+  width: 600px;
+  font-size: 20px;
+  margin-left: 20px;
+  font-family: "Ramabhadra", sans-serif;
+}
+.paradownload {
+  display: inline-block;
+  width: 600px;
+  font-size: 30px;
+  margin-left: 20px;
+  font-family: "chature";
+}
+.paraSerif {
+  display: inline-block;
+  width: 600px;
+  font-size: 20px;
+  margin-left: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+.parasansserif {
+  display: inline-block;
+  width: 500px;
+  font-size: 18px;
+  margin-left: 20px;
+  font-family: sans-serif;
+}
+.paramonospace {
+  display: inline-block;
+  width: 500px;
+  font-size: 16px;
+  margin-left: 20px;
+  font-family: monospace;
+}
+.paracursive {
+  display: inline-block;
+  width: 500px;
+  font-size: 16px;
+  margin-left: 20px;
+  font-family: cursive;
+}
+.parafantasy {
+  display: inline-block;
+  width: 500px;
+  font-size: 18px;
+  margin-left: 20px;
+  font-family: fantasy;
+}
+.srhimage {
+  height: 160px;
+  width: 200px;
+}
+h1 {
+  font-size: 20px;
+}
+.backhomeimage {
+  height: 100px;
+  width: 100px;
+}
+
+@font-face {
+  font-family: "chature";
+  src: url("./fonts/Chathura\ Bold.ttf");
+}
+
+.pageheading {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  color: darkblue;
+  background-color: bisque;
+  text-align: center;
+}
